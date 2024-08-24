@@ -1,1 +1,1 @@
-Simple task for an angular blog. 🧨
+Simple task for a blog with Angular. 🧨
